@@ -1,2 +1,3 @@
 # random-forest
-random forest tune paremeters
+random forest tune parameters
+This is a sklearn tune parameter
